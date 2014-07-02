@@ -1,0 +1,24 @@
+{
+  "common":
+  {
+    "display_structure": "true",
+    "display_queries": "true",
+    "fill": "false"
+  },
+  "database":
+  {
+    "db_server": "127.0.0.1",
+    "db_user": "****",
+    "db_pass": "****",
+    "db_name": "****"
+  },
+  "tables":
+  {
+    "departments": 3,
+    "dept_emp": 10,
+    "dept_manager": 5,
+    "employees": 7,
+    "salaries": 2,
+    "titles": 1
+  }
+}
